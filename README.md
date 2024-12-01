@@ -35,8 +35,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/kjh456/kjh456/output/snake.svg" alt="Snake animation" />
 
 ###
