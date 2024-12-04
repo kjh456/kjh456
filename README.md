@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is jong ho kim and I'm learning artificial intelligence at Dongyang Mirae University <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/>  </p>
+<p align="left">My name is jong ho kim and I'm learning artificial intelligence at Dongyang Mirae University. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/>  </p>
 
 
 ###
